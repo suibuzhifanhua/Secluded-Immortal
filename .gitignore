@@ -1,0 +1,6 @@
+# WorkBuddy 项目内部数据（勿提交）
+.workbuddy/
+
+# 系统杂项
+.DS_Store
+Thumbs.db
